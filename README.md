@@ -1,0 +1,2 @@
+# Lab Ciencia de Datos
+Simulación de una cadena de suministro de vacunas con control de cadena de frío. Modela la llegada de lotes desde proveedores, el almacenamiento en distintas cámaras (ultracongelación, congelación, refrigeración), fallas térmicas con protocolo de cuarentena y rechazo por excursión termal (según GDP/OMS), pedidos de hospitales con despacho FEFO, vencimientos, y un informe final con KPIs financieros y operativos. Corre sobre SQL Server vía pyodbc, con escenarios configurables (normal, estrés, crítico).

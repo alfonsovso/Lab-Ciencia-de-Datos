@@ -1,0 +1,22 @@
+id_perdida,fecha_perdida,camara,tipo_falla,duracion_minutos,temp_maxima,vacuna,temp_min,temp_max,unidades_en_riesgo,proveedor,cantidad_perdida
+3184,2/9/2019 14:44,Camara Congelacion B,Falla Compresor,120,-5.26,COVID-19 Spikevax,-25,-15,1859,Moderna Inc.,835
+3185,2/9/2019 14:44,Camara Congelacion B,Falla Compresor,120,-5.26,COVID-19 Spikevax,-25,-15,2461,Moderna Inc.,1753
+3198,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,2886,Pfizer-BioNTech,2175
+3199,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,2046,Pfizer-BioNTech,2046
+3200,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,2216,Pfizer-BioNTech,2216
+3201,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,2949,Pfizer-BioNTech,2949
+3202,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,2688,Pfizer-BioNTech,2688
+3203,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,3536,Pfizer-BioNTech,3536
+3204,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,3455,Pfizer-BioNTech,3455
+3205,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,1752,Pfizer-BioNTech,1752
+3206,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,3509,Pfizer-BioNTech,3509
+3207,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,2269,Pfizer-BioNTech,2269
+3208,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,3143,Pfizer-BioNTech,3143
+3209,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,3052,Pfizer-BioNTech,3052
+3210,7/2/2022 03:48,Camara Ultracongelacion A,Apagon,152,-51.92,COVID-19 mRNA,-80,-60,1758,Pfizer-BioNTech,1758
+3211,20/2/2024 03:44,Camara Ultracongelacion A,Apagon,90,-54.42,COVID-19 mRNA,-80,-60,2795,Pfizer-BioNTech,682
+3212,20/2/2024 03:44,Camara Ultracongelacion A,Apagon,90,-54.42,COVID-19 mRNA,-80,-60,3056,Pfizer-BioNTech,1125
+3213,20/2/2024 03:44,Camara Ultracongelacion A,Apagon,90,-54.42,COVID-19 mRNA,-80,-60,2121,Pfizer-BioNTech,781
+3214,20/2/2024 03:44,Camara Ultracongelacion A,Apagon,90,-54.42,COVID-19 mRNA,-80,-60,1724,Pfizer-BioNTech,635
+3215,20/2/2024 03:44,Camara Ultracongelacion A,Apagon,90,-54.42,COVID-19 mRNA,-80,-60,3297,Pfizer-BioNTech,1214
+3216,20/2/2024 03:44,Camara Ultracongelacion A,Apagon,90,-54.42,COVID-19 mRNA,-80,-60,2639,Pfizer-BioNTech,972
